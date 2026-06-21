@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed Taha! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D9A34A&center=true&vCenter=true&width=600&lines=Computer+Science+%26+AI+Student;Full-Stack+We[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D9A34A&center=true&vCenter=true&width=600&lines=Computer+Science+%26+AI+Student;Full-Stack+Web+Developer;AI%2FML+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/ahmedtags?label=Followers&style=for-the-badge&color=D9A34A&logo=github" alt="Followers" />
   </a>
   <a href="https://github.com/ahmedtags?tab=repositories">
-    <img src="https://img.shields.io/github/directory-structure/directory-count/ahmedtags/ahmedtags?label=Repositories&style=for-the-badge&color=24292e&logo=github" alt="Repos" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahmedtags&label=Repositories&query=$.public_repos&color=24292e&style=for-the-badge&logo=github" alt="Repos" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ahmedtags&color=d9a34a&style=for-the-badge&label=Views" alt="Views" />
 </p>
@@ -18,7 +18,7 @@
 
 ## ⚡ About Me
 
-I am a passionate **Computer Science & Artificial Intelligence** student at **Universiti Sains Malaysia (USM)**. I specialize in building performant full-stack applications, designing structured d[...]
+I am a passionate **Computer Science & Artificial Intelligence** student at **Universiti Sains Malaysia (USM)**. I specialize in building performant full-stack applications, designing structured databases, and exploring how AI and computer graphics can solve real problems. I enjoy turning coursework into shipped projects — from custom C++ data structures to deep learning models and interactive WebGL scenes.
 
 * 🌐 **Personal Portfolio:** [Taha.github.io](https://ahmedtags.github.io/Taha.github.io/) *(Interactive 3D particle landscape)*
 * 🏫 **Education:** Universiti Sains Malaysia (USM)
@@ -118,12 +118,20 @@ Click on the tabs below to explore my projects categorized by area:
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtags&show_icons=true&theme=dark&bg_color=0d1117&title_color=d9a34a&icon_color=d9a34a&text_color=c9d1d9" alt="GitHub Stats" wid[...]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtags&layout=compact&theme=dark&bg_color=0d1117&title_color=d9a34a&text_color=c9d1d9" alt="Top Languages" width="48%[...]
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtags&show_icons=true&theme=dark&bg_color=0d1117&title_color=d9a34a&icon_color=d9a34a&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtags&layout=compact&theme=dark&bg_color=0d1117&title_color=d9a34a&text_color=c9d1d9" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtags&theme=dark&background=0d1117&ring=d9a34a&fire=d9a34a&currStreakNum=d9a34a" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=ahmedtags&theme=dark&background=0d1117&ring=d9a34a&fire=d9a34a&currStreakNum=d9a34a" alt="GitHub Streak" width="98%" />
+</p>
+
+---
+
+## 📊 Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedtags&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=d9a34a&line=d9a34a&point=ffffff" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -141,7 +149,7 @@ Click on the tabs below to explore my projects categorized by area:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedtags/ahmedtags/output/github-contribution-grid-snake.svg?token=generated" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmedtags/ahmedtags/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
@@ -160,9 +168,17 @@ Feel free to leave a message on my profile board! It updates dynamically in real
 
 ## ✉️ Get in Touch
 
-* 📧 **Email:** `ahmedtaha@student.usm.my`
-* 🌐 **Portfolio Site:** [ahmedtags.github.io/Taha.github.io/](https://ahmedtags.github.io/Taha.github.io/)
-* 💼 **LinkedIn:** [linkedin.com/in/ahmed-taha/](https://www.linkedin.com/in/) *(Update with your LinkedIn URL)*
+<p align="center">
+  <a href="mailto:ahmedtaha@student.usm.my">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ahmedtags.github.io/Taha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-D9A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="REPLACE_WITH_YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 <p align="center">
