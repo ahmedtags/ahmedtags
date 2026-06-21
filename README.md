@@ -138,6 +138,26 @@ Click on the tabs below to explore my projects categorized by area:
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedtags/ahmedtags/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 📖 Interactive Guestbook
+
+Feel free to leave a message on my profile board! It updates dynamically in real-time.
+
+👉 **[Sign my Guestbook!](https://github.com/ahmedtags/ahmedtags/issues/new?template=guestbook.yml&title=Guestbook+Sign:+Ahmed)**
+
+### Recent signatures:
+<!-- GUESTBOOK_LIST_START -->
+<!-- GUESTBOOK_LIST_END -->
+
+---
+
 ## ✉️ Get in Touch
 
 * 📧 **Email:** `ahmedtaha@student.usm.my`

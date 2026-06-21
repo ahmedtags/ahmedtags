@@ -1,0 +1,89 @@
+name: Guestbook
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-guestbook:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'guestbook')
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const issue = context.payload.issue;
+            const user = issue.user.login;
+            const body = issue.body;
+            
+            // Parse message
+            const lines = body.split('\n');
+            let message = '';
+            let record = false;
+            for (const line of lines) {
+              if (line.includes('### Message')) {
+                record = true;
+                continue;
+              }
+              if (record && line.trim() !== '') {
+                message = line.trim();
+                break;
+              }
+            }
+            if (!message) {
+              message = "Signed the guestbook!";
+            }
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const guestbookStart = '<!-- GUESTBOOK_LIST_START -->';
+            const guestbookEnd = '<!-- GUESTBOOK_LIST_END -->';
+            
+            const startIdx = readme.indexOf(guestbookStart);
+            const endIdx = readme.indexOf(guestbookEnd);
+            
+            if (startIdx !== -1 && endIdx !== -1) {
+              const before = readme.substring(0, startIdx + guestbookStart.length);
+              const after = readme.substring(endIdx);
+              const middle = readme.substring(startIdx + guestbookStart.length, endIdx);
+              
+              // New entry format
+              const newEntry = `\n* **[@${user}](https://github.com/${user})**: *"${message}"*`;
+              const updatedMiddle = middle.trim() + newEntry + '\n';
+              
+              fs.writeFileSync('README.md', before + '\n' + updatedMiddle + '\n' + after);
+            }
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: user signed guestbook"
+          git push
+
+      - name: Close issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed',
+              state_reason: 'completed'
+            });
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'Thank you for signing my guestbook! Your message is now live on my profile README. ✨'
+            });
