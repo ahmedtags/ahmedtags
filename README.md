@@ -20,7 +20,7 @@
 
 I am a passionate **Computer Science & Artificial Intelligence** student at **Universiti Sains Malaysia (USM)**. I specialize in building performant full-stack applications, designing structured databases, and exploring how AI and computer graphics can solve real problems. I enjoy turning coursework into shipped projects — from custom C++ data structures to deep learning models and interactive WebGL scenes.
 
-* 🌐 **Personal Portfolio:** [Taha.github.io](https://ahmedtags.github.io/Taha.github.io/) *(Interactive 3D particle landscape)*
+* 🌐 **Personal Portfolio:** [Taha.github.io](https://blxman-37fy.vercel.app/) *(Interactive 3D particle landscape)*
 * 🏫 **Education:** Universiti Sains Malaysia (USM)
 * 🧠 **Specializations:** Artificial Intelligence, Software Engineering, Database Systems, Computer Graphics
 
