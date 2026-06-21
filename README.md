@@ -62,11 +62,13 @@ Click on the tabs below to explore my projects categorized by area:
 <summary><b>🛠️ C++ & Object-Oriented Programming (CPT111 / CPT113)</b></summary>
 <br>
 
-* 📝 [cpt111-assignment-1](https://github.com/ahmedtags/cpt111-assignment-1) — C++ Student Grade Report Card generator with arrays, loops, and CLI formatting.
-* 🧮 [cpt111-assignment-2](https://github.com/ahmedtags/cpt111-assignment-2) — Pension Eligibility & Calculation App (PECA) using classes, inheritance, and user input validation.
-* 📦 [cpt113-assignment-1](https://github.com/ahmedtags/cpt113-assignment-1) — C++ Tax App (iTaxPro) implementing custom Stacks and Queues.
-* 🔗 [cpt113-assignment-2](https://github.com/ahmedtags/cpt113-assignment-2) — Custom C++ Singly/Doubly Linked List implementations.
-* ☕ [cat201-assignment-1](https://github.com/ahmedtags/cat201-assignment-1) — Java OOP command-line student portal with full object-oriented class structure.
+| Repository / Project | Core Technologies | Description |
+| :--- | :--- | :--- |
+| 📝 **[cpt111-assignment-1](https://github.com/ahmedtags/cpt111-assignment-1)** | `C++` `GCC` | Grade report console processor with array logic and validation |
+| 🧮 **[cpt111-assignment-2](https://github.com/ahmedtags/cpt111-assignment-2)** | `C++` `OOP` | Pension Calculation App (PECA) featuring class inheritance |
+| 📦 **[cpt113-assignment-1](https://github.com/ahmedtags/cpt113-assignment-1)** | `C++` `Data Structures` | Console iTaxPro implementing custom stacks & queues |
+| 🔗 **[cpt113-assignment-2](https://github.com/ahmedtags/cpt113-assignment-2)** | `C++` `Linked Lists` | Performance-focused singly/doubly linked list library |
+| ☕ **[cat201-assignment-1](https://github.com/ahmedtags/cat201-assignment-1)** | `Java` `OOP` | Java OOP console student directory and academic course portal |
 
 </details>
 
@@ -74,11 +76,13 @@ Click on the tabs below to explore my projects categorized by area:
 <summary><b>🧠 AI, Machine Learning & NLP (CPC351 / CPC353)</b></summary>
 <br>
 
-* 🎵 [cpc351-assignment-1](https://github.com/ahmedtags/cpc351-assignment-1) — Music ML analysis notebook for classifier optimization.
-* 🥗 [cpc351-assignment-2](https://github.com/ahmedtags/cpc351-assignment-2) — Food Nutrition exploratory data analysis (EDA).
-* 📈 [cpc351-project](https://github.com/ahmedtags/cpc351-project) — Supervised regression and clustering models.
-* 🔤 [cpc353-assignment-1](https://github.com/ahmedtags/cpc353-assignment-1) — Natural Language Processing with N-gram models and POS tagging.
-* 🤖 [cpc353-assignment-2](https://github.com/ahmedtags/cpc353-assignment-2) — Deep learning model implementation (LSTM / Transformer seq2seq).
+| Repository / Project | Core Technologies | Description |
+| :--- | :--- | :--- |
+| 🎵 **[cpc351-assignment-1](https://github.com/ahmedtags/cpc351-assignment-1)** | `Python` `Jupyter` `Scikit-Learn` | Music classification model optimization and hyperparameter tuning |
+| 🥗 **[cpc351-assignment-2](https://github.com/ahmedtags/cpc351-assignment-2)** | `Python` `Jupyter` `Pandas` | Food nutritional composition datasets profiling and EDA |
+| 📈 **[cpc351-project](https://github.com/ahmedtags/cpc351-project)** | `Python` `Jupyter` `ML` | Comparative analysis of supervised regression & clustering models |
+| 🔤 **[cpc353-assignment-1](https://github.com/ahmedtags/cpc353-assignment-1)** | `Python` `Jupyter` `NLTK` | Natural Language Processing tokenizers, N-grams, and POS tagging |
+| 🤖 **[cpc353-assignment-2](https://github.com/ahmedtags/cpc353-assignment-2)** | `Python` `Jupyter` `TensorFlow` | Deep learning Seq2Seq models utilizing custom LSTM & Transformer |
 
 </details>
 
@@ -86,19 +90,23 @@ Click on the tabs below to explore my projects categorized by area:
 <summary><b>🖥️ Computer Graphics & Systems (CPC354 / CPT316)</b></summary>
 <br>
 
-* 🎨 [cpc354-assignment-1](https://github.com/ahmedtags/cpc354-assignment-1) — WebGL 3D Animation engine using vertex/fragment shaders and matrices.
-* 🦾 [cpc354-assignment-2](https://github.com/ahmedtags/cpc354-assignment-2) — Interactive WebGL Robotic Arm with multi-joint hierarchy controls.
-* 🔍 [cpt316-assignment-1](https://github.com/ahmedtags/cpt316-assignment-1) — COMPY Lexer/Parser generating abstract syntax trees and token streams.
-* ⚡ [cpt316-assignment-2](https://github.com/ahmedtags/cpt316-assignment-2) — Flask Rest API + Node-RED Dashboard integration for real-time energy monitoring.
+| Repository / Project | Core Technologies | Description |
+| :--- | :--- | :--- |
+| 🎨 **[cpc354-assignment-1](https://github.com/ahmedtags/cpc354-assignment-1)** | `WebGL` `JavaScript` `HTML5` | Interactive WebGL 3D animations with shading and lighting matrices |
+| 🦾 **[cpc354-assignment-2](https://github.com/ahmedtags/cpc354-assignment-2)** | `WebGL` `JavaScript` `HTML5` | Multi-joint hierarchically controlled WebGL 3D Robotic Arm |
+| 🔍 **[cpt316-assignment-1](https://github.com/ahmedtags/cpt316-assignment-1)** | `C++` `Compilers` | COMPY compiler parser producing syntax trees and token breakdowns |
+| ⚡ **[cpt316-assignment-2](https://github.com/ahmedtags/cpt316-assignment-2)** | `Python` `Flask` `Node-RED` | REST API + Node-RED graphical flows for real-time energy monitor |
 
 </details>
 
 <details>
-<summary><b>🌐 Full-Stack & E-Commerce Web Apps</b></summary>
+<summary><b>🌐 Full-Stack Web Applications</b></summary>
 <br>
 
-* 🛒 [php-ecommerce-website](https://github.com/ahmedtags/php-ecommerce-website) — PHP & MySQL based shopping system with admin dashboard, cart, and authentication.
-* 💳 [mern-stripe-shop](https://github.com/ahmedtags/mern-stripe-shop) — MERN (MongoDB, Express, React, Node) store integrated with Stripe API checkout gateway.
+| Repository / Project | Core Technologies | Description |
+| :--- | :--- | :--- |
+| 🛒 **[php-ecommerce-website](https://github.com/ahmedtags/php-ecommerce-website)** | `PHP` `MySQL` `CSS3` | Classical PHP shop with admin management panel and database |
+| 💳 **[mern-stripe-shop](https://github.com/ahmedtags/mern-stripe-shop)** | `React` `Node.js` `MongoDB` `Stripe` | Storefront webapp using MongoDB, Node.js, and Stripe integrations |
 
 </details>
 
@@ -106,10 +114,12 @@ Click on the tabs below to explore my projects categorized by area:
 <summary><b>📊 Databases & Data Science (CMT221 / CPC152)</b></summary>
 <br>
 
-* 📐 [cmt221-project-design](https://github.com/ahmedtags/cmt221-project-design) — Crow's Foot ERD design and relational model schemas.
-* 💾 [cmt221-project-implementation](https://github.com/ahmedtags/cmt221-project-implementation) — Oracle SQL DDL, constraints, queries, and view creation.
-* 🚗 [cpc152-assignment-1](https://github.com/ahmedtags/cpc152-assignment-1) — Car Sales EDA notebook.
-* 🫀 [cpc152-assignment-2](https://github.com/ahmedtags/cpc152-assignment-2) — Heart Disease dataset profiling notebook.
+| Repository / Project | Core Technologies | Description |
+| :--- | :--- | :--- |
+| 📐 **[cmt221-project-design](https://github.com/ahmedtags/cmt221-project-design)** | `ERD` `Normalization` | Entity-Relationship Diagrams (ERDs) and normalization design schemas |
+| 💾 **[cmt221-project-implementation](https://github.com/ahmedtags/cmt221-project-implementation)** | `Oracle DB` `SQL` | Relational SQL schema deployment, table definitions, and query testing |
+| 🚗 **[cpc152-assignment-1](https://github.com/ahmedtags/cpc152-assignment-1)** | `Python` `Jupyter` `EDA` | EDA on a large-scale automotive sales data dataset |
+| 🫀 **[cpc152-assignment-2](https://github.com/ahmedtags/cpc152-assignment-2)** | `Python` `Jupyter` `Data Science` | Heart disease patient classification dataset analysis & profiling |
 
 </details>
 
@@ -175,7 +185,7 @@ Feel free to leave a message on my profile board! It updates dynamically in real
   <a href="https://blxman-37fy.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-D9A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="www.linkedin.com/in/ahmad-taha-72ab333a4">
+  <a href="https://www.linkedin.com/in/ahmad-taha-72ab333a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
