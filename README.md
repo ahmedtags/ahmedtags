@@ -141,7 +141,7 @@ Click on the tabs below to explore my projects categorized by area:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ahmedtags/ahmedtags@output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/ahmedtags/ahmedtags/output/github-contribution-grid-snake.svg?token=generated" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
