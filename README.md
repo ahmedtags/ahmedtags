@@ -169,13 +169,13 @@ Feel free to leave a message on my profile board! It updates dynamically in real
 ## ✉️ Get in Touch
 
 <p align="center">
-  <a href="mailto:ahmedtaha@student.usm.my">
+  <a href="mailto:tahaahmd2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ahmedtags.github.io/Taha.github.io/">
+  <a href="https://blxman-37fy.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-D9A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="REPLACE_WITH_YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/ahmad-taha-72ab333a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
