@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed Taha! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D9A34A&center=true&vCenter=true&width=600&lines=Computer+Science+%26+AI+Student;Full-Stack+Web+Developer;Computer+Vision+Enthusiast;Welcome+to+my+interactive+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D9A34A&center=true&vCenter=true&width=600&lines=Computer+Science+%26+AI+Student;Full-Stack+We[...]
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## ⚡ About Me
 
-I am a passionate **Computer Science & Artificial Intelligence** student at **Universiti Sains Malaysia (USM)**. I specialize in building performant full-stack applications, designing structured databases, experimenting with computer vision and machine learning architectures, and crafting interactive web interfaces.
+I am a passionate **Computer Science & Artificial Intelligence** student at **Universiti Sains Malaysia (USM)**. I specialize in building performant full-stack applications, designing structured d[...]
 
 * 🌐 **Personal Portfolio:** [Taha.github.io](https://ahmedtags.github.io/Taha.github.io/) *(Interactive 3D particle landscape)*
 * 🏫 **Education:** Universiti Sains Malaysia (USM)
@@ -118,8 +118,8 @@ Click on the tabs below to explore my projects categorized by area:
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtags&show_icons=true&theme=dark&bg_color=0d1117&title_color=d9a34a&icon_color=d9a34a&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtags&layout=compact&theme=dark&bg_color=0d1117&title_color=d9a34a&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtags&show_icons=true&theme=dark&bg_color=0d1117&title_color=d9a34a&icon_color=d9a34a&text_color=c9d1d9" alt="GitHub Stats" wid[...]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtags&layout=compact&theme=dark&bg_color=0d1117&title_color=d9a34a&text_color=c9d1d9" alt="Top Languages" width="48%[...]
 </p>
 
 <p align="center">
@@ -141,7 +141,7 @@ Click on the tabs below to explore my projects categorized by area:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedtags/ahmedtags/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://cdn.jsdelivr.net/gh/ahmedtags/ahmedtags@output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
